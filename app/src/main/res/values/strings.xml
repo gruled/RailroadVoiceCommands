@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Umnaya proverka</string>
+    <string name="button">Произнести фразу</string>
+    <string name="textview">Воспринятые фразы</string>
+    <string name="textview2">Внимание! Введеные фразы чувствительны к числу, падежу и т.д.</string>
+    <string name="button2">Сохранить записи</string>
+    <string name="textview1">Воспринято фраз</string>
+</resources>
